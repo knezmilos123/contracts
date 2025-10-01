@@ -1,0 +1,18 @@
+[submodule "repos/dsc-defi"]
+	path = repos/dsc-defi
+	url = https://github.com/pxlvre/dsc-defi.git
+[submodule "repos/merkle-airdrop"]
+	path = repos/merkle-airdrop
+	url = https://github.com/pxlvre/merkle-airdrop.git
+[submodule "repos/linketh-contracts"]
+	path = repos/linketh-contracts
+	url = https://github.com/pxlvre/linketh-contracts.git
+[submodule "repos/chainlink-feed-multicall-foundry"]
+	path = repos/chainlink-feed-multicall-foundry
+	url = https://github.com/pxlvre/chainlink-feed-multicall-foundry.git
+[submodule "repos/subsa"]
+	path = repos/subsa
+	url = https://github.com/pxlvre/subsa.git
+[submodule "repos/vyper-deployer"]
+	path = repos/vyper-deployer
+	url = https://github.com/pxlvre/vyper-deployer.git

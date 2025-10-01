@@ -2,6 +2,8 @@
 
 A curated collection of my smart contract repositories across different blockchains and frameworks.
 
+> 📁 All repositories are available as submodules in the [`repos/`](./repos) directory
+
 ## 🏗️ Repositories
 
 ### DeFi & Stablecoins

